@@ -1,4 +1,4 @@
-his repository contains a basic analysis of muon–antimuon pair production events generated with MadGraph5_aMC@NLO.
+This repository contains a basic analysis of muon–antimuon pair production events generated with MadGraph5_aMC@NLO.
 
 The studied process is:
 
